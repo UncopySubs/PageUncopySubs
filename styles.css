@@ -31,6 +31,21 @@ body {
     font-weight: 600; /* Estilo Medium */
 }
 
+.social-icons {
+    margin-top: 20px;
+    color: #fff;
+}
+
+.social-icons a {
+    margin: 0 20px;
+    text-decoration: none;
+}
+
+.social-icons img {
+    max-width: 50px; /* Ajuste o tamanho conforme necessário */
+    height: auto;
+}
+
 .footer {
     text-align: center;
     font-size: 14px;
